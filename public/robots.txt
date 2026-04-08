@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://fancy-brilliant-locust-su5cwy.teleporthq.app/sitemap.xml
